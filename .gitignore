@@ -1,0 +1,11 @@
+# ignored files
+*.class
+.DS_Store
+
+# ignored directories
+build/
+**/build/
+
+tools/PSICAT/installer/jar/classes/
+tools/SchemeEditor/installer/jar/classes
+/bin/
